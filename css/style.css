@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
@@ -22,7 +22,7 @@ body {
 
 .section {
     position: absolute;
-    padding-top: 100px;
+    padding: 100px;
     height: auto;
     min-height: 100vh; /* Simulate different sections */
     background-color: #1c1b22;
