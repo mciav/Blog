@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: auto;
-    padding: 0;
+    padding: auto;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 }
 
 .section {
-    position: absolute;
+    position: relative;
     padding: 100px;
     height: auto;
     min-height: 100vh; /* Simulate different sections */
