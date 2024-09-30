@@ -30,4 +30,5 @@ body {
     min-height: 100vh; /* Simulate different sections */
     background-color: #1c1b22;
     margin: 0;
+    top: 30px;
 }
