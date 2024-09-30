@@ -25,10 +25,9 @@ body {
 
 .section {
     position: relative;
-    padding: 100px;
+    padding: 0;
     height: auto;
     min-height: 100vh; /* Simulate different sections */
     background-color: #1c1b22;
-    margin: auto;
-    width: 60%;
+    margin: 0;
 }
