@@ -2,10 +2,13 @@
     box-sizing: border-box;
     margin: auto;
     padding: auto;
+    max-width: 48rem;
+    width: 100%;
+    border: 0 solid #ebebeb;
 }
 
 body {
-    font-family: 'Halant', serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 200;
     color: #FFFFFF;
     background-color: #1c1b22;
