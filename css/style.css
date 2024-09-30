@@ -13,6 +13,12 @@ body {
     color: #FFFFFF;
     background-color: #1c1b22;
 }
+.border {
+    border-bottom-width: 1px;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-color: #1c1b22;
 
 .icon {
     float: left;
