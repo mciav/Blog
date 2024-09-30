@@ -20,7 +20,7 @@ body {
 }
 
 .section {
-    position: absolute;
+    position: relative;
     padding-top: 0;
     padding-right: 100px;
     padding-bottom: 100px;
