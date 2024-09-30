@@ -15,5 +15,6 @@ body {
     height: auto;
     min-height: 100vh; /* Simulate different sections */
     background-color: #1c1b22;
-    align="center";
+    margin: auto;
+    width: 60%;
 }
