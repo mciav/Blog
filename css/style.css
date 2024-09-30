@@ -24,7 +24,7 @@ body {
 }
 
 .section {
-    position: relative;
+    position: absolute;
     padding: 0;
     height: auto;
     min-height: 100vh; /* Simulate different sections */
